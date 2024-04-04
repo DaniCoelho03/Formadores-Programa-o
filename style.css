@@ -1,4 +1,11 @@
-header {
-    background-color: blue;
-    color: antiquewhite;
-}
+.cabeçalho {
+    background-color: rgb(255, 0, 140);
+    }
+
+    .cabeçalho-título {
+        color:beige
+    }
+
+    .cabeçalho-lista {
+        color: white
+    }
