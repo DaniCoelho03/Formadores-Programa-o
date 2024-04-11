@@ -2,14 +2,15 @@
     background-color: rgb(0, 110, 255);
     display:flex;
     padding: 24px 0;
+    justify-content: space-around;
     }
 
     .cabeçalho-título {
-        color:beige
+        color:beige;
     }
 
     .cabeçalho-lista {
-        color: white
+        color: white;
     }
 
     .cabeçalho-imagem {
