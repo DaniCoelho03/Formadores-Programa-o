@@ -12,8 +12,17 @@
 
     .cabeçalho-lista {
         color: white;
+        font-size: 26px;
     }
 
+    .cabeçalho-lista-item1{
+        display: inline-block;
+        margin: 0 16px;
+    }
+    .cabeçalho-lista-item2
+    display:in-range
+
+    
     .cabeçalho-imagem {
         width:20%;
     }
