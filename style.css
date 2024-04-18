@@ -33,6 +33,18 @@
     .cabeçalho-imagem {
         width:10%;
     }
+
+    .Apresentação{
+        background-image: linear-gradiediente ;
+        color: white
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .Apresentação-título{
+        justify-content: center;
+    }
     .Apresentação-imagem {
 width:25%;
     }
