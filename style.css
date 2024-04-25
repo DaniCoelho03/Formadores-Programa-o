@@ -54,10 +54,33 @@ body{
 }
 
 .Apresentação-parágrafo {
+    front-size
     font-size: 32px;
     padding: 24px;
 }
 
+.Apresentação-conteúdo {
+    width: 30%;
+        padding: 24px, 0;
+        justify-content: center;
+}
 .Apresentação-imagem {
-    width: 25%;
+    width: 20%;
+}
+.equipe {
+    background-color: #2ba060;
+    color:white;
+}
+.equipe- imagem{
+    width: 120px;
+}
+.ícones {
+    width: 26px;
+}
+.equipe-conteúdo{
+  text-align: center;
+    padding: 24px;
+}
+.equipe-título{
+    
 }
