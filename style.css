@@ -8,7 +8,7 @@ body{
 }
 
 .cabeçalho {
-    background-color: #483bbd;
+    background-color: #6c65ad;
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
@@ -54,8 +54,7 @@ body{
 }
 
 .Apresentação-parágrafo {
-    front-size
-    font-size: 32px;
+    front-size: 32px;
     padding: 24px;
 }
 
@@ -83,6 +82,6 @@ body{
 }
 .equipe-título{
     text-align: center;
-    
+
 
 }
